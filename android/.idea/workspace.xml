@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9354f39-29ca-4fee-9195-89a594878b7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../devtools_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Podfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/src/data/models/like/likes_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/locale/oz.json" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/locale/oz.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/locale/ru.json" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/locale/ru.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/locale/uz.json" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/locale/uz.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/config/router/app_routes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/config/router/app_routes.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/core/constants/app_keys.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/core/constants/app_keys.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/core/constants/constants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/core/constants/constants.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/core/isolate/upload_file.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/core/isolate/upload_file.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/core/isolate/upload_image_custom.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/core/isolate/upload_image_custom.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/core/services/remote_config_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/core/services/remote_config_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/data/models/home/user_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/data/models/home/user_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/data/models/like/user_likes_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/data/source/local_source.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/data/source/local_source.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/domain/repositories/auth_repo/auth_repository_impl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/domain/repositories/auth_repo/auth_repository_impl.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/domain/repositories/like_repo/like_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/domain/repositories/like_repo/like_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/domain/repositories/like_repo/like_repository_impl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/domain/repositories/like_repo/like_repository_impl.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/domain/repositories/profile_repo/profile_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/domain/repositories/profile_repo/profile_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/domain/repositories/profile_repo/profile_repository_impl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/domain/repositories/profile_repo/profile_repository_impl.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/domain/repositories/user_repo/user_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/domain/repositories/user_repo/user_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/domain/repositories/user_repo/user_repository_impl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/domain/repositories/user_repo/user_repository_impl.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/injector_container.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/injector_container.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/bloc/auth/forgot_password/forgot_password_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/bloc/auth/forgot_password/forgot_password_bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/bloc/auth/forgot_password/forgot_password_event.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/bloc/auth/forgot_password/forgot_password_event.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/bloc/auth/otp/otp_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/bloc/auth/otp/otp_bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/bloc/filter/filter_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/bloc/filter/filter_bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/bloc/filter/filter_event.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/bloc/filter/filter_event.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/bloc/like/like_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/bloc/like/like_bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/bloc/like/like_state.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/bloc/like/like_state.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/bloc/questionnaire/questionnaire_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/bloc/questionnaire/questionnaire_bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/pages/auth/login/login_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/pages/auth/login/login_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/pages/auth/pin/verify_pin_code.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/pages/auth/pin/verify_pin_code.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/pages/home/filter/filter_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/pages/home/filter/filter_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/pages/home/filter/mixin/filter_mixin.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/pages/home/filter/mixin/filter_mixin.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/pages/home/home_detail/home_detail_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/pages/home/home_detail/home_detail_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/pages/home/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/pages/home/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/pages/home/user_tile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/pages/home/user_tile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/pages/image/image_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/pages/image/image_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/pages/like/like_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/pages/like/like_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/pages/main/main_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/pages/main/main_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/pages/profile/create_questionnaire/create_questionnaire_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/pages/profile/create_questionnaire/create_questionnaire_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/pages/profile/create_questionnaire/mixin/create_questionnaire_mixin.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/pages/profile/create_questionnaire/mixin/create_questionnaire_mixin.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/pages/profile/profile_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/pages/profile/profile_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/pages/profile/settings/settings_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/pages/profile/settings/settings_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/pages/user/chat/chat_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/pages/user/chat/chat_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/pages/user/chat/widget/message_bubble.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/pages/user/chat/widget/message_bubble.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/src/presentation/pages/user/widget/chat_user_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/src/presentation/pages/user/widget/chat_user_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=/Users/avazbek/.android/avd/Medium_Phone_API_VanillaIceCream.avd)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/app/sovchilar_mobile.jks" />
+    <option name="KEY_ALIAS" value="sovchilar_mobile" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2qc4gU5w36XGbG5mesZq1F8znFD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ApkExportedModule": "android.app",
+    "ExportApk.ApkPathForandroid.app": "/Users/avazbek/Desktop/Devops/sovchilar_mobile/android/app",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.codeium.enabled": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "test",
+    "kotlin-language-version-configured": "true",
+    "show.migrate.to.gradle.popup": "false"
+  },
+  "keyToStringList": {
+    "ExportApk.BuildVariants": [
+      "release"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="android.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SwiftWorkspaceSettings">
+    <option name="detectedToolchain" value="true" />
+    <option name="toolchainPathValue" value="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9354f39-29ca-4fee-9195-89a594878b7e" name="Changes" comment="" />
+      <created>1734948640770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734948640770</updated>
+    </task>
+    <servers />
+  </component>
+</project>

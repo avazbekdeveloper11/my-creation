@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "10434323781",
+    "firebase_url": "https://sovchilik-uz-184b7-default-rtdb.firebaseio.com",
+    "project_id": "sovchilik-uz-184b7",
+    "storage_bucket": "sovchilik-uz-184b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10434323781:android:f78eaf0623ee5f34784a2c",
+        "android_client_info": {
+          "package_name": "uz.devops.sovchi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZot8aM9xy-SNmHbY1_KKDtTP2tk7KOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10434323781:android:01cd0358d095ea5b784a2c",
+        "android_client_info": {
+          "package_name": "uz.devops.sovchilik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZot8aM9xy-SNmHbY1_KKDtTP2tk7KOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
